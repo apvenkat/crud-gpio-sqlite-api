@@ -40,7 +40,7 @@ http://localhost:4300/api/id/$id
 example: http://localhost:4300/api/id/1
 _____
 
-* **Load all products:**
+* **Load all devices:**
 ```
 http://localhost:4300/api/
 ```
@@ -55,11 +55,11 @@ http://localhost:4300/api/delete/$id
 example: http://localhost:4300/api/delete/1
 ```
 **ID is the only MANDATORY**
-
-```
+______
 ---------------------------------------------
+
 ### PUT
-* **Update a device:**
+* **Update a product:**
 ```
 http://localhost:4300/api/id/$id
 
