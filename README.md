@@ -59,7 +59,7 @@ ______
 ---------------------------------------------
 
 ### PUT
-* **Update a product:**
+* **Update a device:**
 ```
 http://localhost:4300/api/id/$id
 
