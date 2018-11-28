@@ -51,9 +51,10 @@ ______
 * **Delete a device:**
 ```
 http://localhost:4300/api/delete/$id
-
-example: http://localhost:4300/api/delete/1
 ```
+example: http://localhost:4300/api/delete/1
+_____
+
 **ID is the only MANDATORY**
 ______
 
@@ -63,8 +64,10 @@ ______
 ```
 http://localhost:4300/api/id/$id
 
-example : example: http://localhost:4300/api/id/1
 ```
+example: http://localhost:4300/api/id/1
+_____
+
 Sending a JSON body: **ID is the only MANDATORY**
 ```javascript
 
