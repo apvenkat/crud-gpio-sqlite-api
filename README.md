@@ -30,7 +30,7 @@ Sending a JSON body:
 "value": "true"
 }
 ```
----------------------------------------------
+______
 
 ### GET
 * **Get devices by ID:**
@@ -45,7 +45,7 @@ _____
 http://localhost:4300/api/
 ```
 ______
----------------------------------------------
+
 
 ### DELETE
 * **Delete a device:**
@@ -56,7 +56,7 @@ example: http://localhost:4300/api/delete/1
 ```
 **ID is the only MANDATORY**
 ______
----------------------------------------------
+
 
 ### PUT
 * **Update a device:**
